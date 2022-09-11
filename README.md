@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @coder4je
+- 👋 Hi, I’m Taemin
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning JS, HTML, CSS and more. 
+- 🌱 I’m currently working on projects using JS, React, Ruby on Rails, HTML/CSS. 
 - 💞️ I’m looking to collaborate on interesting projects!!
-- 📫 How to reach me @ to be updated soon!!
+- 📫 You can reach me at taeminkimny@gmail.com!!
 
-<!---
-coder4je/coder4je is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
